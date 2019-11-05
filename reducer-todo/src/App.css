@@ -20,3 +20,28 @@
 .App-link {
   color: #09d3ac;
 }
+
+body {
+  background: pink;
+  font-family: 'Staatliches', cursive;
+  font-size: 2rem;
+}
+
+.todo p:hover {
+  color: white;
+  font-size: 2.25rem;
+  transition: 1.25s;
+}
+
+.form1 {
+  border: none;
+}
+
+.form2 {
+  border: none;
+  margin: 0 50px;
+}
+
+.form3 {
+  border: none;
+}
